@@ -1,0 +1,3 @@
+enum Round {
+    FIRST, SECOND
+}
