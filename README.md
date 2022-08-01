@@ -12,4 +12,7 @@ It's possible to run this project by using Jdoodle java online copiler throught 
 **3- copy past the project MyClass content to the IDE MyClass class:**\
  \
 **4- execute the project using the blue execute button:**\
-![execute-button](https://user-images.githubusercontent.com/36992824/182045813-6ec99a79-d7b5-4cdb-9b0b-cf56a21ab833.PNG)
+![execute-button](https://user-images.githubusercontent.com/36992824/182045813-6ec99a79-d7b5-4cdb-9b0b-cf56a21ab833.PNG)\
+\
+### PS: you should choose the rigth jdk version to execute the projet (the project use List interface of the Java 8 version).\
+![ide-jdk-version](https://user-images.githubusercontent.com/36992824/182114132-aa14d13b-4955-43ed-b03f-96838629cb0c.PNG)
